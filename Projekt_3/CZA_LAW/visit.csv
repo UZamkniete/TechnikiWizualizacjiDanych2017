@@ -1,0 +1,16 @@
+Specjalizacja,czy_dzieciecy,czas
+ginekolog,FALSE,0.1
+otolaryngolog,FALSE,0.5
+chirurg,FALSE,0.5
+onkolog,FALSE,0.8
+otolaryngolog,TRUE,0.9
+psychiatra,FALSE,1
+chirurg,TRUE,1.2
+ortopeda,FALSE,1.6
+urolog,TRUE,2.1
+okulista,FALSE,2.6
+neurolog,FALSE,2.8
+neurolog,TRUE,3.1
+kardiolog,FALSE,3.2
+urolog,FALSE,4.5
+kardiolog,TRUE,5.1

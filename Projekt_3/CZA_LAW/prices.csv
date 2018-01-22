@@ -1,0 +1,112 @@
+badanie,miejscowosc,cena
+Artroskopia stawu biodrowego,Toruñ,11100
+Artroskopia stawu biodrowego,Czêstochowa,8500
+Artroskopia stawu biodrowego,Gliwice,10200
+Artroskopia stawu biodrowego,Bydgoszcz,11100
+Artroskopia stawu biodrowego,Wroc³aw,5600
+Artroskopia stawu biodrowego,Katowice,10200
+Artroskopia stawu biodrowego,Tychy,10200
+Artroskopia stawu biodrowego,Rzeszów,6000
+Rezonans magnetyczny krêgos³upa,Warszawa,1100
+Rezonans magnetyczny krêgos³upa,Szczecin,1100
+Rezonans magnetyczny krêgos³upa,Gorzów Wielkopolski,810
+Rezonans magnetyczny krêgos³upa,Bia³ystok,700
+Rezonans magnetyczny krêgos³upa,Poznañ,570
+Rezonans magnetyczny krêgos³upa,Poznañ,1590
+Rezonans magnetyczny krêgos³upa,Katowice,1050
+Rezonans magnetyczny krêgos³upa,Rzeszów,950
+ECHO serca,Kielce,100
+ECHO serca,Toruñ,85
+ECHO serca,Lublin,100
+ECHO serca,Czêstochowa,150
+ECHO serca,Warszawa,130
+ECHO serca,Gliwice,90
+ECHO serca,Szczecin,120
+ECHO serca,Bydgoszcz,85
+ECHO serca,£ódŸ,120
+ECHO serca,Wroc³aw,150
+ECHO serca,Kraków,90
+ECHO serca,Katowice,90
+ECHO serca,Poznañ,100
+ECHO serca,Gdynia,100
+ECHO serca,Gdañsk,100
+ECHO serca,Tychy,90
+ECHO serca,Kowale,100
+ECHO serca,Rzeszów,100
+EKG - metoda Holtera,Kielce,100
+EKG - metoda Holtera,Lubin,150
+EKG - metoda Holtera,Toruñ,85
+EKG - metoda Holtera,Czêstochowa,120
+EKG - metoda Holtera,Warszawa,100
+EKG - metoda Holtera,Gliwice,120
+EKG - metoda Holtera,Bydgoszcz,85
+EKG - metoda Holtera,Kraków,100
+EKG - metoda Holtera,Katowice,100
+EKG - metoda Holtera,Poznañ,130
+EKG - metoda Holtera,Gdynia,125
+EKG - metoda Holtera,Gdañsk,125
+EKG - metoda Holtera,Tychy,100
+EKG - metoda Holtera,Kowale,125
+EKG - metoda Holtera,Rzeszów,100
+Test na borelioze,£ódŸ,60
+Koronografia,Gdañsk,2830
+Koronografia,Józefów,1700
+Gastroskopia,Kielce,400
+Gastroskopia,Lubin,200
+Gastroskopia,Toruñ,220
+Gastroskopia,Lublin,160
+Gastroskopia,Czêstochowa,170
+Gastroskopia,Warszawa,245
+Gastroskopia,Radom,220
+Gastroskopia,Gliwice,270
+Gastroskopia,Szczecin,200
+Gastroskopia,Bydgoszcz,220
+Gastroskopia,£ódŸ,255
+Gastroskopia,Wroc³aw,150
+Gastroskopia,Kraków,200
+Gastroskopia,Katowice,250
+Gastroskopia,Poznañ,300
+Gastroskopia,Gdynia,655
+Gastroskopia,Gdañsk,655
+Gastroskopia,Tychy,250
+Gastroskopia,Kowale,655
+Usg nerek,Lubin,100
+Usg nerek,Toruñ,80
+Usg nerek,Czêstochowa,60
+Usg nerek,Warszawa,90
+Usg nerek,Radom,80
+Usg nerek,Gliwice,120
+Usg nerek,Bydgoszcz,80
+Usg nerek,£ódŸ,70
+Usg nerek,Zielona Góra,100
+Usg nerek,Wroc³aw,150
+Usg nerek,Kraków,100
+Usg nerek,Katowice,120
+Usg nerek,Poznañ,60
+Usg nerek,Gdynia,80
+Usg nerek,Gdañsk,80
+Usg nerek,Tychy,120
+Usg nerek,Kowale,80
+USG jamy brzusznej,Kielce,65
+USG jamy brzusznej,Lubin,100
+USG jamy brzusznej,Toruñ,100
+USG jamy brzusznej,Lublin,80
+USG jamy brzusznej,Czêstochowa,90
+USG jamy brzusznej,Warszawa,90
+USG jamy brzusznej,Radom,80
+USG jamy brzusznej,Gliwice,70
+USG jamy brzusznej,Szczecin,100
+USG jamy brzusznej,Gorzów Wielkopolski,95
+USG jamy brzusznej,Bydgoszcz,100
+USG jamy brzusznej,£ódŸ,70
+USG jamy brzusznej,ZielonaGóra,100
+USG jamy brzusznej,Wroc³aw,90
+USG jamy brzusznej,Kraków,100
+USG jamy brzusznej,Katowice,120
+USG jamy brzusznej,Poznañ,80
+USG jamy brzusznej,Gdynia,70
+USG jamy brzusznej,Gdañsk,70
+USG jamy brzusznej,Tychy,120
+USG jamy brzusznej,Kowale,70
+USG jamy brzusznej,Rzeszów,80
+USG jamy brzusznej,Opole,100
